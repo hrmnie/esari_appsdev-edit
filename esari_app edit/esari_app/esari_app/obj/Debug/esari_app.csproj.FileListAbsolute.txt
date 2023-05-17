@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\bin\Debug\esari_app.exe.config
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\bin\Debug\esari_app.exe
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\bin\Debug\esari_app.pdb
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\obj\Debug\esari_app.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\obj\Debug\esari_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\obj\Debug\esari_app.Form1.resources
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\obj\Debug\esari_app.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\obj\Debug\esari_app.signInForm.resources
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\obj\Debug\esari_app.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\obj\Debug\esari_app.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\obj\Debug\esari_app.exe
+C:\Users\Admin\Desktop\New folder\esari_app\esari_app\obj\Debug\esari_app.pdb
