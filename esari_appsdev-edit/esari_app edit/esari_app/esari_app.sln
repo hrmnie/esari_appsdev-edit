@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esari_app", "esari_app\esari_app.csproj", "{918EF615-2A1E-4204-BDC9-7F6EC2E90A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918EF615-2A1E-4204-BDC9-7F6EC2E90A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918EF615-2A1E-4204-BDC9-7F6EC2E90A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918EF615-2A1E-4204-BDC9-7F6EC2E90A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918EF615-2A1E-4204-BDC9-7F6EC2E90A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24D6BF82-A95F-47F0-9709-637BB5CA5C19}
+	EndGlobalSection
+EndGlobal
