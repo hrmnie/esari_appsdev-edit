@@ -22,3 +22,15 @@ C:\Users\Dell\source\repos\esari_appsdev-edit\esari_app edit\esari_app\esari_app
 C:\Users\Dell\source\repos\esari_appsdev-edit\esari_app edit\esari_app\esari_app\bin\Debug\esari_app.exe.config
 C:\Users\Dell\source\repos\esari_appsdev-edit\esari_app edit\esari_app\esari_app\bin\Debug\esari_app.exe
 C:\Users\Dell\source\repos\esari_appsdev-edit\esari_app edit\esari_app\esari_app\bin\Debug\esari_app.pdb
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\bin\Debug\esari_app.exe.config
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\bin\Debug\esari_app.exe
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\bin\Debug\esari_app.pdb
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\obj\Debug\esari_app.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\obj\Debug\esari_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\obj\Debug\esari_app.Form1.resources
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\obj\Debug\esari_app.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\obj\Debug\esari_app.signInForm.resources
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\obj\Debug\esari_app.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\obj\Debug\esari_app.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\obj\Debug\esari_app.exe
+C:\Users\PC\OneDrive\Desktop\MYAPP\esari_appsdev-edit\esari_app edit\esari_app\esari_app\obj\Debug\esari_app.pdb

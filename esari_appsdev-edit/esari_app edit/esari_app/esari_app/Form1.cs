@@ -77,8 +77,44 @@ namespace esari_app
             lblItemsOrdered.Text = "Items Ordered: " + itemsOrdered.ToString();
 
         }
-       /* public void tabShoppingCart_SelectedIndexChanged(object sender, EventArgs e) 
-        
+        /* public void tabShoppingCart_SelectedIndexChanged(object sender, EventArgs e) 
+
+         {
+             switch (tabOrderForm.SelectedIndex)
+             {
+                 case 1:
+                     if (itemsOrdered == 0)
+                     {
+
+                         MessageBox.Show("No items were ordered", "Invalid Order", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                     }
+                     else
+                     {
+                         double totalCost = 0;
+                         lstProducts.Items.Clear();
+                         for (int i = 0; i < numberOfProducts; i++)
+                         {
+                             if (products[i].numberOrdered != 0)
+                             {
+                                 lstProducts.Items.Add(products[i].numberOrdered.ToString() + " " + products[i].Description);
+                                 totalCost += products[i].Cost * products[i].numberOrdered;
+                             }
+                         }
+
+                         lblTotalCost.Text = "Total Cost: $" + String.Format("{0;f2}", totalCost);
+                     }
+                     break;
+
+             }
+         }
+        */
+
+       /* private void tabShoppingCart(object sender, EventArgs e)
+        {
+
+        }*/
+
+        private void shoppingCart(object sender, EventArgs e)
         {
             switch (tabOrderForm.SelectedIndex)
             {
@@ -87,37 +123,7 @@ namespace esari_app
                     {
 
                         MessageBox.Show("No items were ordered", "Invalid Order", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
-                    else
-                    {
-                        double totalCost = 0;
-                        lstProducts.Items.Clear();
-                        for (int i = 0; i < numberOfProducts; i++)
-                        {
-                            if (products[i].numberOrdered != 0)
-                            {
-                                lstProducts.Items.Add(products[i].numberOrdered.ToString() + " " + products[i].Description);
-                                totalCost += products[i].Cost * products[i].numberOrdered;
-                            }
-                        }
-
-                        lblTotalCost.Text = "Total Cost: $" + String.Format("{0;f2}", totalCost);
-                    }
-                    break;
-                
-            }
-        }
-       */
-
-        private void tabShoppingCart(object sender, EventArgs e)
-        {
-            switch (tabOrderForm.SelectedIndex)
-            {
-                case 1:
-                    if (itemsOrdered == 0)
-                    {
-
-                        MessageBox.Show("No items were ordered", "Invalid Order", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        tabOrderForm.SelectedIndex = 0;
                     }
                     else
                     {

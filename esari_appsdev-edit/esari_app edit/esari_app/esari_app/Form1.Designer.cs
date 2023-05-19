@@ -137,7 +137,7 @@
             this.tabOrderForm.SelectedIndex = 0;
             this.tabOrderForm.Size = new System.Drawing.Size(692, 391);
             this.tabOrderForm.TabIndex = 0;
-            this.tabOrderForm.SelectedIndexChanged += new System.EventHandler(this.tabShoppingCart);
+            this.tabOrderForm.SelectedIndexChanged += new System.EventHandler(this.shoppingCart);
             // 
             // tabPage1
             // 
